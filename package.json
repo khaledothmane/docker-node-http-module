@@ -1,0 +1,30 @@
+{
+  "name": "docker-node-http-model",
+  "version": "1.0.0",
+  "description": "Containerizing a node application in docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledothmane/docker-node-http-module.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "http",
+    "module"
+  ],
+  "author": "KHALED Othmane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaledothmane/docker-node-http-module/issues"
+  },
+  "homepage": "https://github.com/khaledothmane/docker-node-http-module#readme",
+  "dependencies": {
+    "log4js": "^3.0.6",
+    "underscore": "^1.9.1"
+  }
+}

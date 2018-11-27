@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "product-1",
+            "description": "Product number 1",
+            "price": "7"
+        },
+        {
+            "name": "product-2",
+            "description": "Product number 2",
+            "price": "13"
+        },
+        {
+            "name": "product-3",
+            "description": "Product number 3",
+            "price": "0.9"
+        }
+    ] 
+}
